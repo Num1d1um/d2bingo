@@ -3,7 +3,7 @@ A set of bingo squares for Destiny 2 via https://bingosync.com/
 
 
 # HOW TO PLAY:
-Go to https://bingosync.com/ and create a room. Select **custom game**, randomized board and paste the contents of the JSON into the "board" section. Remember to choose a password and give it to any players that join. The squares are designed for 1v1 lockout matches but can work on other setups. Obviously, detailed rules and stipulations are up to you, the below is just a starting point!
+Go to https://bingosync.com/ and create a room. Select **custom game** (NOT "Destiny 2), randomized board and paste the contents of the JSON into the "board" section. Remember to choose a password and give it to any players that join. The squares are designed for 1v1 lockout matches but can work on other setups. Obviously, detailed rules and stipulations are up to you, the below is just a starting point!
 
 # SQUARE DETAILS:
 ## Nomenclature
