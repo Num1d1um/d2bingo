@@ -2,16 +2,17 @@
 A set of bingo squares for Destiny 2 via https://bingosync.com/
 
 
-HOW TO PLAY:
+#HOW TO PLAY:
 Go to https://bingosync.com/ and create a room. Select custom game, randomized board and paste the contents of the JSON into the "board" section. Remember to choose a password and give it to any players that join. The squares are designed for 1v1 lockout matches but can work on other setups. Obviously, detailed rules and stipulations are up to you, the below is just a starting point!
 
-SQUARE DETAILS:
-Nomenclature
+#SQUARE DETAILS:
+##Nomenclature
 
 Activity: Anything you load into that is not accessible from Patrol: Expert/Master Lost Sectors, Story/Campaign Missions, Altars of Reflection, Sieve, Preservation, Throneworld Well Attack/Defense, Empire/Nightmare Hunts, Lawless Frontier, Exo Challenges etc PLUS all Ops!
+
 Ops Activity: Anything accessed via the row of Ops at the bottom of the director: Fireteam, Pinnacle, Arena and Solo Ops, Gambit, Raids, Dungeons and Crucible
 
-Bingo Squares
+##Bingo Squares
 
 Solo Flawless a Dungeon, up to and including the first Encounter
 
