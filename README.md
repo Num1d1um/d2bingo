@@ -164,6 +164,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Score in three different Holes in the Tire Game
 
+## Get Frozen and Suspended
+
 ## Get a Kill as an Invader
 
   *Can be in Gambit or Lawless Frontier*
