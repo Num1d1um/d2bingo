@@ -56,6 +56,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ##Kill 3 Vex Minds
 
+##Complete a Timeline Mission
+
 ## Do an Activity on a Destiny 1 Location
 
   *Moon, Mars, Cosmodrome, Reef, Dreadnought, Venus*
