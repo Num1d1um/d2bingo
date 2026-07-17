@@ -42,6 +42,20 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Kill a Fallen Major with a Pike
 
+##Drive from Failsafe to the Halphas Electus without getting off or dying
+
+##Drive a lap through the EDZ without getting off or dying
+
+##Drive a lap through Europa without getting off or dying
+
+##Drive a lap through the Dreaming City without getting off or dying
+
+##Drive from Eris to the entrance to the Black Garden without getting off or dying
+
+##Kill a Valus and a Bracus
+
+##Kill 3 Vex Minds
+
 ## Do an Activity on a Destiny 1 Location
 
   *Moon, Mars, Cosmodrome, Reef, Dreadnought, Venus*
