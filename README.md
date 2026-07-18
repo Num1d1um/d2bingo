@@ -42,21 +42,33 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Kill a Fallen Major with a Pike
 
-##Drive from Failsafe to the Halphas Electus without getting off or dying
+## Drive from Failsafe to the Halphas Electus without getting off or dying
 
-##Drive a lap through the EDZ without getting off or dying
+## Drive a lap through the EDZ without getting off or dying
 
-##Drive a lap through Europa without getting off or dying
+ *Must visit Outskirts, Winding Cove, Firebase Hades, The Gulch and the Sludge before returning to starting point*
 
-##Drive a lap through the Dreaming City without getting off or dying
+## Drive a lap through Europa without getting off or dying
 
-##Drive from Eris to the entrance to the Black Garden without getting off or dying
+ *Must visit Charon's Crossing, Cadmus Ridge, Eventide Ruins and Asterion Abyss before returning to starting point*
 
-##Kill a Valus and a Bracus
+## Drive a lap through the Dreaming City without getting off or dying
 
-##Kill 3 Vex Minds
+ *Must visit Divalian Mists, Rheasilvia and The Strand before returning to starting point*
 
-##Complete a Timeline Mission
+## Drive from Eris to the entrance to the Black Garden without getting off or dying
+
+ *Ends at the Gate*
+
+## Kill a Valus and a Bracus
+
+ *Name must include either Valus or Bracus*
+
+## Kill 2 Vex Minds
+
+ *Name must include Mind*
+
+## Complete a Timeline Mission
 
 ## Do an Activity on a Destiny 1 Location
 
