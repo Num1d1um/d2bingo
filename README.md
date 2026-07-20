@@ -76,6 +76,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Complete a full set (5) of repeatable bounties from a planetary vendor
 
+## Complete an Adventure
+
 ## Use a Vex Cranium
 
   *Must fire the laser*
