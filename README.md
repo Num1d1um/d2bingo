@@ -84,6 +84,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Perform 5 Finishers
 
+## Cleanse a Nightmare Essence
+
 ## Kill one of each Champion Type
 
   *Overload, Barrier and Unstoppable*
