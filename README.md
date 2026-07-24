@@ -78,6 +78,10 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Complete a full set (5) of repeatable bounties from a planetary vendor
 
+## Visit the Well of Flame, Well of Echoes and Chamber of Stone on Nessus
+
+ *Must use the respective return teleporter in all three places*
+
 ## Complete an Adventure
 
 ## Use a Vex Cranium
