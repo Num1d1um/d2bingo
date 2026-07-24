@@ -70,6 +70,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ## Complete a Timeline Mission
 
+## Complete a Partition
+
 ## Do an Activity on a Destiny 1 Location
 
   *Moon, Mars, Cosmodrome, Reef, Dreadnought, Venus*
