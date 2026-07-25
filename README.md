@@ -44,6 +44,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Kill a Fallen Major with a Pike
 
+## Complete a Wellspring
+
 ## Drive from Failsafe to the Halphas Electus without getting off or dying
 
 ## Drive a lap through the EDZ without getting off or dying
