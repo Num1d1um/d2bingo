@@ -48,18 +48,6 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ## Drive from Failsafe to the Halphas Electus without getting off or dying
 
-## Drive a lap through the EDZ without getting off or dying
-
- *Must visit Outskirts, Winding Cove, Firebase Hades, The Gulch and the Sludge before returning to starting point*
-
-## Drive a lap through Europa without getting off or dying
-
- *Must visit Charon's Crossing, Cadmus Ridge, Eventide Ruins and Asterion Abyss before returning to starting point*
-
-## Drive a lap through the Dreaming City without getting off or dying
-
- *Must visit Divalian Mists, Rheasilvia and The Strand before returning to starting point*
-
 ## Drive from Eris to the entrance to the Black Garden without getting off or dying
 
  *Ends at the Gate*
