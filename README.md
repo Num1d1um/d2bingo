@@ -46,6 +46,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ## Complete a Wellspring
 
+## Kill three Wizards on the Moon
+
 ## Drive from Failsafe to the Halphas Electus without getting off or dying
 
 ## Drive from Eris to the entrance to the Black Garden without getting off or dying
