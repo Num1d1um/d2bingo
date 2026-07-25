@@ -36,6 +36,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
   
 ## Kill a named Subjugator and a named Tormentor
 
+## On Kepler, kill Exile Nezkris in Augurs Bethel
+
 ## Complete an Activity while having the same weapon type equipped in every slot
 
   *Is possible and counts for bows, fusion rifles, trace rifles, sniper rifles, shotguns, grenade launchers and glaives*
