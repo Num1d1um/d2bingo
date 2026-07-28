@@ -46,6 +46,10 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ## Complete a Wellspring
 
+## Complete a Stitching
+
+ *Is possible in the Pale Heart or during Distortions*
+
 ## Kill three Wizards on the Moon
 
 ## Drive from Failsafe to the Halphas Electus without getting off or dying
