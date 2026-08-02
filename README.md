@@ -46,6 +46,8 @@ Ops Activity: Anything accessed via the row of Ops at the bottom of the director
 
 ## Complete a Wellspring
 
+## Destroy 3 Hive Crystals
+
 ## Complete a Stitching
 
  *Is possible in the Pale Heart or during Distortions*
